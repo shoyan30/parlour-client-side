@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "643010e0f5a7e52ce1e8fa65",
+        "image": "https://i.ibb.co.com/2qBDDbC/Group-1373.png",
+        "name": "Anti-Age Face Treatment",
+        "price": 299,
+        "details": "Our anti-aging face treatment rejuvenates your skin, reduces fine lines, and restores a youthful glow using premium techniques and products.",
+        "duration": "1 hour",
+        "benefits": [
+            "Reduces wrinkles and fine lines",
+            "Hydrates and nourishes the skin",
+            "Improves skin elasticity and tone"
+        ],
+        "addOns": [
+            "Collagen boosting serum (+₹100)",
+            "Under-eye treatment (+₹50)"
+        ]
+    },
+    {
+        "_id": "643010f9f5a7e52ce1e8fa66",
+        "image": "https://i.ibb.co.com/KXrtdjQ/Group-1372.png",
+        "name": "Hair Color & Styling",
+        "price": 199,
+        "details": "Transform your hair with expert color and styling services tailored to suit your personality and style.",
+        "duration": "1.5–3 hours",
+        "servicesOffered": [
+            "Full color",
+            "Highlights",
+            "Balayage",
+            "Ombre",
+            "Root touch-up",
+            "Curls & waves",
+            "Blow-dry & straightening"
+        ],
+        "addOns": [
+            "Deep conditioning treatment (+₹100)",
+            "Scalp massage (+₹50)"
+        ]
+    },
+    {
+        "_id": "6430110af5a7e52ce1e8fa67",
+        "image": "https://i.ibb.co.com/n06Lzyz/Group-1374.png",
+        "name": "Skin Care Treatment",
+        "price": 399,
+        "details": "Revitalize your skin with our tailored skincare treatments designed to cleanse, hydrate, and refresh your complexion.",
+        "duration": "1.5 hours",
+        "benefits": [
+            "Deep cleansing for clear skin",
+            "Restores natural glow",
+            "Customizable for different skin types"
+        ],
+        "addOns": [
+            "Vitamin C mask (+₹100)",
+            "Hydrating serum (+₹50)"
+        ]
+    }
+]
+
